@@ -44,6 +44,8 @@ sentiment ratio of positive words to negative words from 5 articles per city. Th
 problem 2 is straightforward and does not hold much bearing on the subsequent problem. A 
 string-matching algorithm was needed to count the number of negative, neutral, and positive 
 words in each article before plotting the words on a histogram.
+
+<br>&nbsp;&nbsp;&nbsp;
 Problem 3 was a bit more confusing as we were unsure on how to interpret the 
 probability distribution part as all the routes possible are finite and not random. Because of 
 this, we decided to spread out all the possible routes and rank them according to how closely 
