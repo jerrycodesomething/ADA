@@ -1,5 +1,5 @@
 # ADA (Algorithm Design and Analysis)
-![ADA Banner]()
+![ADA Banner](https://raw.githubusercontent.com/jerrykingbob/ADA/master/ADA.png)
 
 
 ## Introduction 
