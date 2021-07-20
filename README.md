@@ -1,7 +1,8 @@
 # ADA (Algorithm Design and Analysis)
 
 ## Introduction 
-&nbsp;&nbsp;&nbsp; For this course’s group assignment project, we decided to choose question 2. 
+&nbsp;&nbsp;&nbsp; 
+For this course’s group assignment project, we decided to choose question 2. 
 Question 2 concerns a UK broker looking for industrial investment opportunities in the cities 
 of Asia. He already invested in a company in Kuala Lumpur and now he plans to travel to 
 several cities in Asia from Kuala Lumpur to expand his investment. The cities include Jakarta, 
