@@ -1,4 +1,6 @@
 # ADA (Algorithm Design and Analysis)
+![ADA Banner]()
+
 
 ## Introduction 
 &nbsp;&nbsp;&nbsp; 
@@ -22,7 +24,7 @@ or adapted to fit different problem cases. Among them were a couple algorithms n
 in this course. For certain sub-problems, the various problem-solving techniques and 
 algorithm implementations taught throughout this WIA2005 Algorithm Design and Analysis 
 were adapted and modified to meet the requirements of those problems. In addition to that, 
-various external libraries and APIs were used in addition to the native Python libraries to help 
+various external libraries and APIs were used in addition to native Python libraries to help 
 solve the various problems in this project. Workloads were delegated equally among the 5 
 group members with
 
@@ -34,7 +36,7 @@ This was based by making a few assumptions- the first being that â€œBen Shermanâ
 UK and has only invested in a company in Kuala Lumpur. The question states that Ben must 
 start is journey from Kuala Lumpur but that does not mean that he has to return to Kuala 
 Lumpur; hence why the question was not interpreted as a TSP problem/ shortest Hamiltonian 
-cycle problem. Given that this is a Nondeterministic Polynomial complete problem, there are 
+cycle problem. Given that this is a nondeterministic polynomial complete problem, there are 
 no polynomial-time algorithms to solve it so various algorithms and approaches were 
 implemented to solve Problem 1. 
 
