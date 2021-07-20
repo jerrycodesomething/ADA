@@ -16,7 +16,7 @@ economic and financial situation than any of the other cities, Ben will visit an
 provided that the difference of distance between the 2 cities is not more than 40% and the 
 difference of sentiment analysis between the 2 cities is not less than 2%. 
 
-<br>&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;
 Throughout this project, several algorithms were used; with some being implemented 
 or adapted to fit different problem cases. Among them were a couple algorithms not learnt 
 in this course. For certain sub-problems, the various problem-solving techniques and 
