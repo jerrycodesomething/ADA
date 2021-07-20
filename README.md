@@ -1,6 +1,6 @@
 # ADA (Algorithm Design and Analysis)
 
-##Introduction 
+## Introduction 
 For this course’s group assignment project, we decided to choose question 2. 
 Question 2 concerns a UK broker looking for industrial investment opportunities in the cities 
 of Asia. He already invested in a company in Kuala Lumpur and now he plans to travel to 
@@ -14,7 +14,7 @@ economic and financial situations. If the next nearest city to be visited has a 
 economic and financial situation than any of the other cities, Ben will visit another city first 
 provided that the difference of distance between the 2 cities is not more than 40% and the 
 difference of sentiment analysis between the 2 cities is not less than 2%. 
-Throughout this project, several algorithms were used; with some being implemented 
+<br>Throughout this project, several algorithms were used; with some being implemented 
 or adapted to fit different problem cases. Among them were a couple algorithms not learnt 
 in this course. For certain sub-problems, the various problem-solving techniques and 
 algorithm implementations taught throughout this WIA2005 Algorithm Design and Analysis 
